@@ -11,3 +11,4 @@ git status
 git add .
 git status
 git commit -m "Version inicial"
+Hacemos cambios en VSCode
